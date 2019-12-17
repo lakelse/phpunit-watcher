@@ -2,6 +2,27 @@
 
 All notable changes to `phpunit-watcher` will be documented in this file
 
+## 1.21.4 - 2019-12-04
+
+- fix compatibility with yosymfony/resource-watcher (#101)
+
+## 1.12 - 1.21
+
+- some version numbers were skipped due to mistagging
+
+
+## 1.12.3 - 2019-12-02
+
+- update dependencies
+
+## 1.12.2 - 2019-01-15
+
+- improve windows compatibility (#98)
+
+## 1.12.1 - 2019-10-16
+
+- update version number
+
 ## 1.12.0 - 2019-09-09
 
 - new random seed feature. Run tests in random order.
